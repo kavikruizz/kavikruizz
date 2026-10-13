@@ -24,7 +24,7 @@ PRINCIPLES  : Clean architecture. Thoughtful UI. Reliable systems.
 STATUS      : Learning, building, and refining.
 ```
 
-I build practical software—from **Java Swing point-of-sale systems** to **full-stack e-commerce platforms** and **Android applications**. I focus on maintainable architecture, dependable data handling, and interfaces that make complex workflows feel simple.
+I design and develop practical software solutions, from **Java Swing POS and inventory management systems** to **full-stack e-commerce platforms** and **Android applications**. My focus is on clean architecture, reliable data management, and intuitive user experiences that simplify complex business workflows.
 
 ### `root@kavikruizz:~# ./load_modules.sh`
 
