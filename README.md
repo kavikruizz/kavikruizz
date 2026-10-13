@@ -1,114 +1,181 @@
-
 <div align="center">
 
-# 🥷 KAVIKRUIZZ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:003B00,100:00FF41&height=210&section=header&text=KAVI%20KRUIZZ&fontSize=54&fontColor=00FF41&fontAlignY=40&desc=%5B%20ACCESS%20GRANTED%20%5D&descAlignY=62&descSize=17&animation=twinkling" alt="Kavi KruizZ" width="100%" />
 
-### ⚡ Kavindu Madusanka
-**Software Developer | Problem Solver | Code Creator**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2700&pause=900&color=00FF41&center=true&vCenter=true&width=720&height=45&lines=root%40kavikruizz%3A~%23+whoami;Software+Developer+%7C+Java+%7C+Web+%7C+Android;Decode.+Disrupt.+Rewrite.;Build+successful.+Exit+code%3A+0" alt="Animated terminal introduction" />
 
-*Silent moves. Clean code. Powerful results.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavikruizz/)
+<p>
+<img src="https://komarev.com/ghpvc/?username=kavikruizz&style=flat-square&color=00FF41&labelColor=000000&label=VISITORS" alt="Profile views" />
+<a href="https://github.com/kavikruizz?tab=followers"><img src="https://img.shields.io/github/followers/kavikruizz?style=flat-square&logo=github&label=FOLLOWERS&labelColor=000000&color=00FF41" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF41?style=flat-square&labelColor=000000" alt="Currently building" />
+</p>
 
 </div>
 
 ---
 
-## 🥷 About Me
+### `root@kavikruizz:~# whoami`
 
-Hey! I'm **Kavindu**, an aspiring Software Developer from Sri Lanka 🇱🇰.
+```text
+ALIAS       : KaviKruizZ
+ROLE        : Software Developer
+FOCUS       : Java Desktop | Full-Stack Web | Android
+PRINCIPLES  : Clean architecture. Thoughtful UI. Reliable systems.
+STATUS      : Learning, building, and refining.
+```
 
-I enjoy transforming ideas into functional, reliable, and user-friendly software. My experience covers **desktop, web, and Android application development**.
+I build practical software—from **Java Swing point-of-sale systems** to **full-stack e-commerce platforms** and **Android applications**. I focus on maintainable architecture, dependable data handling, and interfaces that make complex workflows feel simple.
 
-- 💻 Building practical software solutions
-- ⚔️ Solving problems, one line of code at a time
-- 🧠 Exploring new technologies and improving my skills
-- 🎯 Focused on clean code and continuous learning
-- 🚀 Open to entry-level software development opportunities
+### `root@kavikruizz:~# ./load_modules.sh`
 
----
-
-## ⚡ Tech Arsenal
-
-### 🗡️ Programming & Web
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### 🛡️ Databases & Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-*MongoDB and Firebase: foundational knowledge.*
-
-### 🛠️ Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
----
-
-## ⚔️ Featured Missions
-
-### ☕ LedgerOne — Restaurant POS & Inventory System
-
-A Java Swing and MySQL desktop application designed to streamline restaurant operations.
-
-**Mission Highlights**
-- 🔐 Secure authentication and role-based access
-- 🧾 POS, orders, payments, and receipts
-- 📦 Inventory and ingredient management
-- 📊 Sales and inventory reporting
-- 🔄 Order cancellations and refunds
-
-**Stack:** Java • Swing • JDBC • MySQL
-
-### 🛍️ Luxe — E-Commerce Web Application
-
-A full-stack e-commerce platform built for a smooth and user-friendly shopping experience.
-
-**Mission Highlights**
-- 🛒 Product browsing and shopping cart
-- 🔐 User authentication and account management
-- 💳 Guest checkout and order processing
-- ❤️ Wishlist functionality
-- 📊 Administrative dashboard
-
-**Stack:** HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-## 🎯 Current Objectives
-
-- ⚡ Strengthen my full-stack development skills
-- 🧠 Improve software architecture and code quality
-- 🥷 Build meaningful real-world applications
-- 🚀 Grow into a professional Software Developer
-
----
-
-## 🤝 Connect With Me
-
-📍 **Sri Lanka 🇱🇰**
-
-💼 **LinkedIn:** [kavikruizz](https://www.linkedin.com/in/kavikruizz/)
-
----
+```text
+[ OK ] desktop  ........ Java · Swing · JDBC
+[ OK ] web      ........ HTML · CSS · JavaScript · PHP · Next.js
+[ OK ] mobile   ........ Android Studio · Java · SQLite
+[ OK ] data     ........ MySQL · MongoDB · Firebase
+[ OK ] tooling  ........ Git · GitHub · VS Code · NetBeans · Figma · Docker
+```
 
 <div align="center">
 
-### 🥷 CODE. CREATE. CONQUER.
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css,nextjs,mysql,mongodb,firebase,sqlite,androidstudio,git,github,vscode,figma,docker&theme=dark&perline=8" alt="Developer technology stack" />
 
-*Stay focused. Keep building. Never stop learning.*
+</div>
 
-**⚡ KAVIKRUIZZ ⚡**
+---
+
+### `root@kavikruizz:~# tree projects/`
+
+```text
+projects/
+├── LedgerOne/     # Restaurant POS & Inventory Management
+├── Luxe/          # Fashion E-Commerce Platform
+└── RecipeBox/     # Android Recipe Manager
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### `[01] LedgerOne`
+**Restaurant POS & Inventory Management**
+
+A Java Swing desktop application for café operations, sales, inventory, and reporting.
+
+```text
++ role-based authentication
++ POS, payment & receipts
++ cancellations & partial refunds
++ recipe-based stock deduction
++ inventory movements & reports
+```
+
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41" alt="Java" />
+<img src="https://img.shields.io/badge/Swing-000000?style=flat-square&logoColor=00FF41" alt="Swing" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" alt="MySQL" />
+
+<a href="https://github.com/kavikruizz?tab=repositories"><b>Explore repositories →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### `[02] Luxe`
+**Fashion E-Commerce Platform**
+
+A responsive online shopping experience with customer storefront and admin tools.
+
+```text
++ product browsing & discovery
++ shopping cart & checkout
++ customer account management
++ administration dashboard
++ database-backed operations
+```
+
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00FF41" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=00FF41" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" alt="MySQL" />
+
+<a href="https://github.com/kavikruizz?tab=repositories"><b>Explore repositories →</b></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b><code>cat ./LedgerOne/architecture.md</code> — view system architecture</b></summary>
+
+```mermaid
+flowchart LR
+    UI["Swing UI<br/>Login · POS · Inventory · Reports"] --> SVC["Service Layer<br/>Business rules & transactions"]
+    SVC --> DAO["DAO Layer<br/>JDBC"]
+    DAO --> DB[(MySQL)]
+    SVC --> RCP["Recipe & Inventory Logic"]
+    RCP --> DAO
+```
+
+```text
+sale()   -> record order -> resolve recipe -> deduct ingredients
+refund() -> validate paid order -> record refund -> log prepared-food waste
+```
+
+**Inventory rule:** Prepared-food refunds do not restore usable ingredient stock. Stock reversals apply only when appropriate, such as qualifying cancellations before preparation.
+
+</details>
+
+---
+
+### `root@kavikruizz:~# cat principles.conf`
+
+```ini
+[engineering]
+structure_first   = true
+user_centred_ui   = true
+data_integrity    = true
+ship_then_refine  = true
+
+[mindset]
+discipline        = constant
+curiosity         = unlimited
+execution         = deliberate
+```
+
+---
+
+### `root@kavikruizz:~# git stats --overview`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavikruizz&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=9FE5AE&icon_color=00FF41" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavikruizz&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=9FE5AE" alt="Most-used public repository languages" />
+
+<img src="https://streak-stats.demolab.com?user=kavikruizz&hide_border=true&background=000000&stroke=003B00&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=9FE5AE&dates=008F11&sideNums=00FF41&currStreakNum=00FF41" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+### `root@kavikruizz:~# ./connect.sh`
+
+Open to collaboration, freelance projects, and interesting engineering challenges.
+
+<div align="center">
+
+<a href="mailto:kavikruizz1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-003B00?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" alt="Email" /></a>
+<a href="https://github.com/kavikruizz"><img src="https://img.shields.io/badge/GITHUB-KAVIKRUIZZ-003B00?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/kavikruizz"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-003B00?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn" /></a>
+-->
+
+<br />
+
+### `DECODE. DISRUPT. REWRITE.`
+
+<sub><code>I wasn't coded to obey. I was born to rewrite the system.</code></sub>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:003B00,100:000000&height=100&section=footer" alt="Green matrix footer" width="100%" />
 
 </div>
