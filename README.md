@@ -166,7 +166,7 @@ Open to collaboration, freelance projects, and interesting engineering challenge
 <a href="mailto:kavikruizz1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-003B00?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" alt="Email" /></a>
 <a href="https://github.com/kavikruizz"><img src="https://img.shields.io/badge/GITHUB-KAVIKRUIZZ-003B00?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/kavikruizz"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-003B00?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn" /></a>
--->
+
 
 <br />
 
