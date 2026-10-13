@@ -70,11 +70,18 @@ A Java Swing desktop application for café operations, sales, inventory, and rep
 + inventory movements & reports
 ```
 
+<a href="https://github.com/kavikruizz/LedgerOne">
+  <img src="https://raw.githubusercontent.com/kavikruizz/LedgerOne/main/screenshots/02-dashboard.png" alt="LedgerOne Dashboard Preview" width="100%" />
+</a>
+
+
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41" alt="Java" />
 <img src="https://img.shields.io/badge/Swing-000000?style=flat-square&logoColor=00FF41" alt="Swing" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" alt="MySQL" />
 
-<a href="https://github.com/kavikruizz?tab=repositories"><b>Explore repositories →</b></a>
+<a href="https://github.com/kavikruizz/LedgerOne">
+  <b>⚡ Explore LedgerOne →</b>
+</a>
 
 </td>
 <td width="50%" valign="top">
